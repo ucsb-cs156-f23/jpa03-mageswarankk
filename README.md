@@ -1,6 +1,6 @@
 # jpa03-mageswarankk
 
-Running at: <https://jpa03-mageswaran.dokku-09.cs.ucsb.edu>
+Running at: <https://jpa03-mageswarankk.dokku-09.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
